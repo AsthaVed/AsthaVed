@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my frontend skills and building React projects  <br>👯 I’m looking to collaborate on frontend / React.js projects  <br>🤝 I’m looking for help with advanced React and system design concepts  <br>🌱 I’m currently learning React, Tailwind CSS, and modern JavaScript  <br>💬 Ask me about HTML, CSS, JavaScript, React  <br>⚡ Fun fact: I recently concluded my role at my previous company — my last working day was 10 December 2025<br>
+🔭 I’m currently working on improving my frontend skills and building React projects  <br>👯 I’m looking to collaborate on frontend / React.js projects  <br>🤝 I’m looking for help with advanced React and system design concepts  <br>🌱 I’m currently learning React, Tailwind CSS, and modern JavaScript  <br>💬 Ask me about HTML, CSS, JavaScript, React, Next.js  <br>⚡ Fun fact: I recently concluded my role at my previous company — my last working day was 10 December 2025<br>
 
 
 ## 🌐 Socials:
