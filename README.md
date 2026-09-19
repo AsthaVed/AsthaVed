@@ -18,13 +18,3 @@
 
 **Testing:**
 [![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?\&logo=postman\&logoColor=white)](https://www.postman.com/) [![Playwright](https://img.shields.io/badge/Playwright-%2345BA4.svg?\&logo=playwright\&logoColor=white)](https://github.com/microsoft/playwright)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AsthaVed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AsthaVed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsthaVed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=AsthaVed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
