@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Astha:
-• I'm a Frontend Developer with 2.5 years of experience, passionate about building modern and user-friendly web applications. 💡
+• I'm a Frontend Developer with 2.5 years of experience, passionate about building modern and user-friendly web applications. 💡 <br>
 • I love learning new technologies and using them to solve real-world problems. ✨
 
 🌱 I’m currently learning backend system design.
