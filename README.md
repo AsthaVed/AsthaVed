@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 
-**Front End:**
+**Front End:** <br>
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript\&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/) [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui\&logoColor=white)](https://mui.com/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css\&logoColor=white)](https://tailwindcss.com/) [![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react\&logoColor=%2361DAFB)](https://react.dev/) [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router\&logoColor=white)](https://reactrouter.com/) [![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux\&logoColor=white)](https://redux.js.org/) [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?logo=redux\&logoColor=white)](https://redux-toolkit.js.org/) [![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack\&logoColor=black)](https://webpack.js.org/) [![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite\&logoColor=white)](https://vite.dev/)
 
 **Back End:**
